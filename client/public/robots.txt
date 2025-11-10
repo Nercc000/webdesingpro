@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freelancer-portfolio.manus.space/sitemap.xml
